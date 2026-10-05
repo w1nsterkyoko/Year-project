@@ -18,7 +18,7 @@
 | Бочаров Денис Андреевич | dabocharov@edu.hse.ru | @MurphyAnderson |
 | Бирюкова Виктория Викторовна | vvbiriukova@edu.hse.ru | @toxicsnail |
 | Иванцов Сергей Петрович | spivantsov@edu.hse.ru | @Serg_Ivancov |
-| Колесникова Виталия Александровна |  | @w1nsterkyok0 |
+| Колесникова Виталия Александровна | vitalekolesnikova@edu.hse.ru | @w1nsterkyok0 |
 
 ## 🎓 Куратор проекта
 
